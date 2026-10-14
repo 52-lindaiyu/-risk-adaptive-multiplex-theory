@@ -1,0 +1,7 @@
+Python 3.13.3
+numpy==2.2.6
+scipy==1.17.1
+pandas==3.0.5
+numba==0.61.2
+statsmodels==0.14.6
+pyarrow==24.0.0
